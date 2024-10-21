@@ -16,6 +16,9 @@ The key objectives of this project are to:
 
 Dataset Structure
 •	Orders: Holds information about the orders placed.
+
 •	Pizza: Contains details about each pizza.
+
 •	Pizza_Size: Defines the available pizza sizes.
+
 •	Order_Items: Captures the items in each order.
